@@ -42,7 +42,7 @@ Before you begin, ensure you have met the following requirements:
    git clone https://github.com/adas0mahdi/crude-application-inertia.git
   
 
-#Change into the project directory:
+# Change into the project directory:
 cd crude-application-inertia
 Install PHP dependencies using Composer:
 composer install
@@ -51,7 +51,7 @@ npm install
 
 Copy the .env.example file to .env and configure your database settings.
 
-#Generate the application key:
+# Generate the application key:
 php artisan key:generate
 Run the migrations and seed the database:
 php artisan migrate --seed
@@ -61,16 +61,16 @@ php artisan serve
 
 Visit http://localhost:8000 in your web browser to access the application.
 
-##Usage
+## Usage
 Explain how to use the application, including any user instructions or guidelines.
 
 Contributing
 If you'd like to contribute to this project, please follow these guidelines:
 
-##Fork the repository.
+## Fork the repository.
 Create a new branch for your feature or bug fix.
 Make your changes and commit them with clear, descriptive commit messages.
 Push your changes to your fork.
 Submit a pull request to the main repository.
-License
+## License
 This project is licensed under the MIT License.
