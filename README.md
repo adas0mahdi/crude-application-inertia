@@ -39,8 +39,7 @@ Before you begin, ensure you have met the following requirements:
 
 1. Clone the repository:
 
-   ```shell
-   git clone https://github.com/adas0mahdi/crude-application-inertia.git
+  
 
 #Change into the project directory:
 cd crude-application-inertia
